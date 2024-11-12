@@ -1,6 +1,4 @@
 ## DATE:
-## REGISTER NO.:212223230156
-## NAME:A K PREETHI
 # EXP 1: SOLUTION TO A SYSTEM OF LINEAR EQUATIONS
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
@@ -18,6 +16,10 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
+DEVELOPED BY:A K PREETHI
+REGISTER NUMBER:212223230156
+
+
 import numpy as np
 A=np.array([[1,3],[2,5]])
 B=np.array([5,-3])
